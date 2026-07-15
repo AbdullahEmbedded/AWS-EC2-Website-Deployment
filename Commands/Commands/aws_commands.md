@@ -2,7 +2,7 @@
 
 This document contains the Linux commands used to deploy a static website on an Amazon EC2 instance running Amazon Linux.
 
----
+--- 
 
 # 1. Connect to the EC2 Instance
 
